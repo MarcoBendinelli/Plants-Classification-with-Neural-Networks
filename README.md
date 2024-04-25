@@ -9,6 +9,8 @@ Various techniques are explored, including:
 - Utilization of pre-trained models like VGG16.
 - Transfer learning and fine-tuning techniques, to adapt pre-trained models to the plant species classification problem.
 
+The full Report is available [here](Report.pdf)
+
 ## Confusion Matrix
 
 <p align="center">
